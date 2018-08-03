@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item android:title="@string/my_properties" />
+        <item
+            android:id="@+id/menu_add_property"
+            android:checked="true"
+            android:icon="@drawable/ic_add"
+            android:title="@string/add_property" />
+        <item
+            android:id="@+id/menu_manage_property"
+            android:icon="@drawable/ic_manage"
+            android:title="@string/manage_property" />
+
+    </group>
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item android:title="@string/my_account" />
+        <item
+            android:id="@+id/menu_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/menu_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout" />
+
+    </group>
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_invite"
+            android:title="@string/invite_friends" />
+        <item
+            android:id="@+id/menu_about_app"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about_app" />
+ <item
+            android:id="@+id/paid_promotion"
+            android:icon="@drawable/ic_action_paid"
+            android:title="@string/apply_bid" />
+
+    </group>
+
+</menu>

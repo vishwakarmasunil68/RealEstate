@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Aqar</string>
+
+    <string name="facebook_app_id">185768032084826</string>
+    <string name="fb_login_protocol_scheme">fb185768032084826</string>
+
+
+    <string-array name="rentsale">
+        <item>Rent and Sale</item>
+        <item>Rent</item>
+        <item>Sale</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!--<string name="previous"></string>-->
+
+    <string-array name="propert_size">
+        <item>Square meter</item>
+        <item>Acre</item>
+        <item>Habil</item>
+    </string-array>
+
+    <string-array name="property_price">
+        <item>Sudanese Pound</item>
+        <item>American Dollar</item>
+        <item>Euro</item>
+        <item>Saudi Arabian Riyal</item>
+    </string-array>
+
+    <string name="google_map_key">AIzaSyDqD0R_uieBU9F31-gS8gnzw0p3SFsMn-w </string>
+    <string name="google_places_api_key">AIzaSyCe4FhPT9mNYPOiQv8XJu0wh5QX7q75rKc </string>
+
+    <string name="enter_chat_msg">Enter message here</string>
+    <string name="btn_send">Send</string>
+    <string name="search_location">Search Location</string>
+    <string name="location">Location</string>
+    <string name="into_title">Sudan Real Estate</string>
+    <string name="real_estate_platform">A platform for real estates in sudan</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="login_with_mobile">Login with your mobile number</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="btn_login">Login</string>
+    <string name="any_other_social">Or with any of your social account</string>
+    <string name="login_later">No thanks, I will login later!</string>
+    <string name="arabic">arabic</string>
+    <string name="select_category">Select Category</string>
+    <string name="previous">Previous</string>
+    <string name="next_page"><![CDATA[NEXT >]]></string>
+    <string name="condition_1">Add properties only,requests or queries should not be added here</string>
+    <string name="condition_2">Add images for the same property not arbitary images, and make sure to locate the property correctly in the map</string>
+    <string name="condition_3">Update property status after rent or sale</string>
+    <string name="main_attribute">Main attributes</string>
+    <string name="property_size">Property Size</string>
+    <string name="following_size_unit">Fill property size and size unit</string>
+    <string name="size">Size</string>
+    <string name="property_price">Property Price</string>
+    <string name="fill_property_price">Fill property price and currency</string>
+    <string name="price">Price</string>
+    <string name="additional_notes">Additional Notes</string>
+    <string name="fill_property_description">Please enter all the property descriptions to get more opportunities</string>
+    <string name="notes_extra_details">Notes or extra details</string>
+    <string name="property_category">Property Category</string>
+    <string name="property_offer">Property Offer</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="search_for_property">Search for property</string>
+    <string name="my_properties">My Properties</string>
+    <string name="full_name">Full Name</string>
+    <string name="bio">Bio</string>
+    <string name="email">Email</string>
+    <string name="save">SAVE</string>
+    <string name="select_property_attribute">Select property attributes</string>
+    <string name="rooms_count">Rooms count</string>
+    <string name="toilets_count">Toilets count</string>
+    <string name="other_attributes">Other attributes</string>
+    <string name="halls_count">Halls count</string>
+    <string name="property_age">Property Age</string>
+    <string name="amenities">Amenities</string>
+    <string name="hide_from_map">Hide property location from map</string>
+    <string name="property_address">Enter property address</string>
+    <string name="street_name">Street name - neighborhood name - city name</string>
+    <string name="property_location">Select Property Location</string>
+    <string name="property_age_string">Property Age</string>
+    <string name="submit">Submit</string>
+    <string name="property_information">Property information</string>
+    <string name="advertiser">Advertiser</string>
+    <string name="chats_with_friend">Chat with friends</string>
+    <string name="share">Share</string>
+    <string name="define_for_rent_sale">Please define it properly for rent or sale</string>
+
+    <string name="my_property">My Properties</string>
+    <string name="add_property">Add Property</string>
+    <string name="manage_property">Manage Properties</string>
+    <string name="my_account">My Account</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="about_app">About app</string>
+    <string name="apply_bid">Apply for paid promotion</string>
+
+    <string name="please_wait">Please Wait...</string>
+
+    <string name="home_all">All</string>
+
+    <string name="rent">Rent</string>
+    <string name="sale">Sale</string>
+    <string name="preview">Preview</string>
+    <string name="submit_property">Submit Property</string>
+    <string name="sure_submit">Are you sure want to submit the property?</string>
+    <string name="ok">OK</string>
+
+    <string name="pending">PENDING</string>
+    <string name="open">OPEN</string>
+    <string name="hidden">HIDDEN</string>
+    <string name="closed">CLOSED</string>
+    <string name="rejected">REJECTED</string>
+
+    <string name="chat">Chat</string>
+    <string name="favorite">Favorite</string>
+    <string name="paid_promotions">Paid Promotions</string>
+    <string name="select">Select</string>
+    <string name="buy_now">Buy Now</string>
+
+</resources>

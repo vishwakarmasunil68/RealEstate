@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">عقار</string>
+
+    <string name="facebook_app_id">185768032084826</string>
+    <string name="fb_login_protocol_scheme">fb185768032084826</string>
+
+
+    <string-array name="rentsale">
+        <item>إيجار </item>
+        <item>تأج</item>
+        <item>تخفيض الس</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!--<string name="previous"></string>-->
+
+    <string-array name="propert_size">
+        <item>Square meter</item>
+        <item>Acre</item>
+        <item>Habil</item>
+    </string-array>
+
+    <string-array name="property_price">
+        <item>Sudanese Pound</item>
+        <item>American Dollar</item>
+        <item>Euro</item>
+        <item>Saudi Arabian Riyal</item>
+    </string-array>
+
+    <string name="google_map_key">AIzaSyDqD0R_uieBU9F31-gS8gnzw0p3SFsMn-w </string>
+    <string name="google_places_api_key">AIzaSyCe4FhPT9mNYPOiQv8XJu0wh5QX7q75rKc </string>
+
+    <string name="enter_chat_msg">أدخل الرسالة هنا</string>
+    <string name="english">الانجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="btn_send">إرسال</string>
+    <string name="search_location">البحث الموقع</string>
+    <string name="location">موقعك</string>
+    <string name="into_title">عقارات السودان</string>
+    <string name="real_estate_platform">منصة للعقارات في السودان</string>
+    <string name="skip">تخطي</string>
+    <string name="next">التالى</string>
+    <string name="login_with_mobile">تسجيل الدخول برقم هاتفك الشخصي</string>
+    <string name="mobile_number">رقم الهاتف المحمول</string>
+    <string name="btn_login">تسجيل الدخول</string>
+    <string name="any_other_social">عن طريق حسابك الاجتماعي</string>
+    <string name="login_later">لا شكرا..سأقوم في التسجيل لاحقا</string>
+    <string name="select_category">اختر الفئة</string>
+    <string name="previous">سابق</string>
+    <string name="next_page"><![CDATA[التالى >]]></string>
+    <string name="condition_1">إضافة خصائص فقط ، لا ينبغي إضافة الطلبات أو الاستعلامات هنا</string>
+    <string name="condition_2">إضافة صور لنفس الخاصية وليس الصور التحكيمية ، وتأكد من تحديد موقع الخاصية بشكل صحيح في الخريطة</string>
+    <string name="condition_3">تحديث حالة الملكية بعد الإيجار أو البيع</string>
+    <string name="main_attribute">السمات الرئيسية</string>
+    <string name="property_size">حجم العقار</string>
+    <string name="following_size_unit">ملء حجم الممتلكات وحجم الوحدة</string>
+    <string name="size">بحجم</string>
+    <string name="property_price">Property Price</string>
+    <string name="fill_property_price">أسعار العقارات</string>
+    <string name="price">السعر</string>
+    <string name="additional_notes">ملاحظات إضافية</string>
+    <string name="fill_property_description">يرجى إدخال جميع أوصاف الممتلكات للحصول على مزيد من الفرص</string>
+    <string name="notes_extra_details">ملاحظات أو تفاصيل إضافية</string>
+    <string name="property_category">فئة الملكية</string>
+    <string name="property_offer">عرض الملكية</string>
+    <string name="search">بحث</string>
+    <string name="cancel">إلغاء</string>
+    <string name="search_for_property">البحث عن الممتلكات</string>
+    <string name="my_properties">عقاراتي</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="bio">السيرة الذاتية</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="save">حفظ</string>
+    <string name="select_property_attribute">حدد خصائص الخاصية</string>
+    <string name="rooms_count">عدد الغرف</string>
+    <string name="toilets_count">عدد المراحيض</string>
+    <string name="other_attributes">سمات أخرى</string>
+    <string name="halls_count">عدد القاعات</string>
+    <string name="property_age">عمر العقار</string>
+    <string name="amenities">وسائل الراحة</string>
+    <string name="hide_from_map">إخفاء موقع العقار من الخريطة</string>
+    <string name="property_address">أدخل عنوان العقار</string>
+    <string name="street_name">اسم الشارع - اسم الحي - اسم المدينة</string>
+    <string name="property_location">حدد موقع العقار</string>
+    <string name="property_age_string">عمر العقار</string>
+    <string name="submit">خضع</string>
+    <string name="property_information">معلومات الملكية</string>
+    <string name="advertiser">معلن</string>
+    <string name="chats_with_friend">الدردشة مع الأصدقاء</string>
+    <string name="share">شارك</string>
+    <string name="define_for_rent_sale">يرجى تحديده بشكل صحيح للإيجار أو البيع</string>
+
+    <string name="my_property">عقاراتي</string>
+    <string name="add_property">اضف العقار</string>
+    <string name="manage_property">إدارة خصائص</string>
+    <string name="my_account">حسابي</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="logout">الخروج</string>
+    <string name="invite_friends">ادعو أصدقاء</string>
+    <string name="about_app">حول التطبيق</string>
+    <string name="apply_bid">التقدم بطلب للحصول على الترويج المدفوع</string>
+    <string name="please_wait">أرجو الإنتظار...</string>
+
+    <string name="rent">تأجير</string>
+    <string name="sale">تخفيض السعر</string>
+    <string name="preview">معاينة></string>
+    <string name="submit_property">تقديم الممتلكات</string>
+    <string name="sure_submit">هل أنت متأكد من أنك تريد إرسال العقار؟</string>
+    <string name="ok">حسنا</string>
+
+    <string name="pending">قيد الانتظار</string>
+    <string name="open">افتح</string>
+    <string name="hidden">خفية</string>
+    <string name="closed">مغلق</string>
+    <string name="rejected">مرفوض</string>
+
+    <string name="chat">دردشة</string>
+    <string name="favorite">مفضل</string>
+    <string name="paid_promotions">الترقيات المدفوعة</string>
+    <string name="select">تحديد</string>
+    <string name="buy_now">اشتري الآن</string>
+
+</resources>

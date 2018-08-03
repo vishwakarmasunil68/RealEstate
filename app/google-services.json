@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "268612179103",
+    "firebase_url": "https://aqairi-207218.firebaseio.com",
+    "project_id": "aqairi-207218",
+    "storage_bucket": "aqairi-207218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268612179103:android:ab6decfaf60b3485",
+        "android_client_info": {
+          "package_name": "com.appentus.realestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268612179103-ji5064u10iv1tdtt8v2kuo448tb8eqod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appentus.realestate",
+            "certificate_hash": "d3be9b87d9089054bb7e3f71607e537d0e42ff9f"
+          }
+        },
+        {
+          "client_id": "268612179103-fmm7brh8l43b6hq0q751gnps2vfps5e9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "268612179103-fmm7brh8l43b6hq0q751gnps2vfps5e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIeppg81EU3qCUvG0SRnvdiCxvvViljkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268612179103-fmm7brh8l43b6hq0q751gnps2vfps5e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
